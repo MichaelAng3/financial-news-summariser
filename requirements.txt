@@ -1,0 +1,12 @@
+streamlit>=1.34
+pandas>=2.2
+numpy>=1.25
+tqdm>=4.66
+rouge-score>=0.1.2
+bert-score>=0.3.13
+datasets>=2.19
+peft>=0.9
+transformers>=4.39
+# Use CPU only PyTorch to avoid downloading large CUDA dependencies during Docker build
+torch==2.2.2+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu

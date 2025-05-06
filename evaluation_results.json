@@ -1,0 +1,8 @@
+{
+  "rouge_baseline": 0.45379073469619424,
+  "rouge_finetuned": 0.5073920829593603,
+  "factual_baseline": 0.44093615958094595,
+  "factual_finetuned": 0.5675858931317925,
+  "bertscore_baseline": 0.7579274414479733,
+  "bertscore_finetuned": 0.7584136147201062
+}
